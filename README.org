@@ -1,0 +1,10 @@
+* hh-web
+
+Framework for building modern web applications in Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hargettp/hh-web.git   |
+| commit  | d877398  |
+| systems | hh-web |
+|---------+-------------------------------------------|
+
